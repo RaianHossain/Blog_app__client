@@ -43,7 +43,6 @@ function Bio({ bio, profileId }) {
           </p>
         </div>
       )}
-      {/* <!-- Edit Bio button. The Above bio will be editable when clicking on the button --> */}
       {isEdit && (
         <>
           <button
